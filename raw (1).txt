@@ -291,6 +291,10 @@ local TargetBaseSkins = {
 }
 
 local TargetGears = {
+    ["wave rider"] = true,
+    ["witch broom"] = true,
+    ["flying bee"] = true,
+    ["Santa sleigh"] = true,
     
 }
 
